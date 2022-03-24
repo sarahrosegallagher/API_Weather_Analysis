@@ -5,8 +5,9 @@ config.py
 #practice files
 API_practice.ipynb
 random.ipynb
-try-except.ipynb
-
+try_except.ipynb
+copy_linear_regression.ipynb
+linear_regression_practice.ipynb
 
 
 
